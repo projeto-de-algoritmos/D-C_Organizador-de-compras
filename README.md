@@ -1,19 +1,24 @@
 # Organizador de Lista de Compras
 
-**Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
 | 18/0019066  |  Isabella Carneiro |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0036940  |  Rafael Fernandes |
 
 ## Sobre 
 Este é um projeto simples de uma aplicação web que permite organizar uma lista de compras por ordem alfabética utilizando o algoritmo de Merge Sort. A aplicação é desenvolvida utilizando JavaScript, HTML e CSS.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Disponibilizamos três screenshots que mostram como usar o sistema. Se preferir, também há a explicação em [vídeo.]()<br><br>
+Interface inicial do projeto:<br>
+![Screenshot 1](/imgs/PA_1.JPG)<br><br>
+Exemplos de uso:<br>
+![Screenshot 2](/imgs/PA_2.JPG)<br><br>
+Resultados exemplares:<br>
+![Screenshot 3](/imgs/PA_3.JPG)<br>
 
 ## Instalação 
 
