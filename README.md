@@ -1,45 +1,28 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Organizador de Lista de Compras
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0019066  |  Isabella Carneiro |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este é um projeto simples de uma aplicação web que permite organizar uma lista de compras por ordem alfabética utilizando o algoritmo de Merge Sort. A aplicação é desenvolvida utilizando JavaScript, HTML e CSS.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+**Linguagem**: Javascript<br>
+**Como executar o projeto**:
+* Clone o repositório para o seu ambiente local.
+* Abra o arquivo index.html em um navegador web.
+Agora você pode utilizar a aplicação para adicionar itens à lista de compras e observar a ordenação alfabética automática dos itens.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+* Adicionar itens à lista de compras: Digite o nome de um item no campo de texto e clique no botão "Adicionar Item" para adicioná-lo à lista.
+* Organizar a lista: A lista de compras é automaticamente reordenada em ordem alfabética após a adição de cada item.
