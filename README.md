@@ -31,3 +31,6 @@ Agora você pode utilizar a aplicação para adicionar itens à lista de compras
 ## Uso 
 * Adicionar itens à lista de compras: Digite o nome de um item no campo de texto e clique no botão "Adicionar Item" para adicioná-lo à lista.
 * Organizar a lista: A lista de compras é automaticamente reordenada em ordem alfabética após a adição de cada item.
+
+  ## Vídeo
+  A explicação da aplicação pode ser vista no link <https://unbbr.sharepoint.com/:v:/s/Myteam265/ETRSs8S27WpFrpy-7uVK8BUBBzK4ArPE1W-X4eSoy2dUNg?e=nUpgcU>. (Lembre de estar logado na conta .unb.br no teams)
