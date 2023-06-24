@@ -12,7 +12,7 @@
 Este é um projeto simples de uma aplicação web que permite organizar uma lista de compras por ordem alfabética utilizando o algoritmo de Merge Sort. A aplicação é desenvolvida utilizando JavaScript, HTML e CSS.
 
 ## Screenshots
-Disponibilizamos três screenshots que mostram como usar o sistema. Se preferir, também há a explicação em [vídeo.]()<br><br>
+Disponibilizamos três screenshots que mostram como usar o sistema. Se preferir, também há a explicação em [vídeo.](https://unbbr.sharepoint.com/:v:/s/Myteam265/ETRSs8S27WpFrpy-7uVK8BUBBzK4ArPE1W-X4eSoy2dUNg?e=nUpgcU)<br><br>
 Interface inicial do projeto:<br>
 ![Screenshot 1](/imgs/PA_1.JPG)<br><br>
 Exemplos de uso:<br>
