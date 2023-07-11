@@ -27,7 +27,7 @@ input[type="text"] {
     font-size: 16px;
 }
 
-button {
+.button1 {
     padding: 10px 20px;
     background-color: #4CAF50;
     color: #fff;
@@ -37,8 +37,16 @@ button {
     font-size: 16px;
 }
 
-button:hover {
+.button1:hover {
     background-color: #45a049;
+}
+
+.custom-button{
+    font-size: 16px;
+    font-weight: bold;
+    float: right;
+    border-radius: 30%;
+    cursor: pointer;
 }
 
 ul {
